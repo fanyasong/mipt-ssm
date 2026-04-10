@@ -2,7 +2,7 @@
 
 > **O(N) training memory · O(K·D) inference cache · Competitive LM quality**
 
-📄 **Paper:** *Wave-Particle Duality Neural Sequence Processing System and Method* — arXiv link coming soon  
+📄 **Paper:** *Wave-Particle Duality Neural Sequence Processing System and Method* — Paper: arXiv:2604.07716  
 🔬 **Patent:** CN Patent Application Filed (April 2025)
 
 ---
